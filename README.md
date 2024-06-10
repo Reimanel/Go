@@ -32,7 +32,7 @@ O código está no arquivo `main.go`.
 - Acredito que com orientação e prática, poderei rapidamente superar essas dificuldades e contribuir efetivamente para a equipe.
 
 **Conclusão:**
-Estou muito interessado na oportunidade de estágio e disposto a aprender e crescer na área. Agradeço pela consideração e oportunidade.
+Estou muito interessado na oportunidade de estágio e disposto a aprender, aprimorar minhas habilidades e crescer na área, incluindo o uso de Docker. Agradeço pela consideração e oportunidade.
 
 Atenciosamente,
 
