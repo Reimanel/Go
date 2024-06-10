@@ -36,5 +36,5 @@ Estou muito interessado na oportunidade de estágio e disposto a aprender e cres
 
 Atenciosamente,
 Marlon Romanelli
-31984156220
-bcromanelli@gmail.com
+- 31984156220
+- bcromanelli@gmail.com
