@@ -35,6 +35,7 @@ O código está no arquivo `main.go`.
 Estou muito interessado na oportunidade de estágio e disposto a aprender e crescer na área. Agradeço pela consideração e oportunidade.
 
 Atenciosamente,
+
 **Marlon Romanelli**
 - 31984156220
 - bcromanelli@gmail.com
